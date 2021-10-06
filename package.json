@@ -32,7 +32,7 @@
     "markdown-to-jsx": "^7.0.0",
     "moment": "^2.28.0",
     "pg": "^8.3.3",
-    "strapi": "^3.4.1",
+    "strapi": "^3.6.1",
     "strapi-admin": "^3.4.1",
     "strapi-connector-bookshelf": "^3.4.1",
     "strapi-plugin-content-manager": "^3.4.1",
